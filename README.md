@@ -1,4 +1,4 @@
-# DWM Hooking Project
+# DWM Hooking Project Chinese
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -44,7 +44,7 @@
 
 
 
-# DWM Hooking Project
+# DWM Hooking Project English
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 

@@ -1,3 +1,47 @@
+# DWM Hooking Project English
+
+![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Project Overview
+
+This project is a customization of DWM (Desktop Window Manager) to implement various deception and extension features. Specifically, the project includes:
+
+- Utilization of **VEH (Vectored Exception Handling) image** to create a virtual table for deceiving regular scans.
+- Implementation of **virtual table hook** to extend DWM functionality.
+- Creation of **screenshot textures** to deceive the way shellcode is run within DWM.
+
+Additionally, the project encompasses the following features:
+
+- Utilization of **ImGui** with both **DX10** and **DX11** for graphical interface operations.
+- Support for **x64** and **x86** communication methods, with encapsulated DLL invocation.
+
+## Usage
+
+Below are the basic steps to get started with this project:
+
+1. Clone or download the project to your local environment.
+2. Compile and build the project, ensuring that the required dependencies are correctly installed.
+3. Run the project and follow the UI prompts for operations.
+
+Make sure you have properly configured the necessary environment and dependencies for the project.
+
+## Anti Screenshots
+
+In this project, to deceive the injection of shellcode running within DWM, we use screenshot textures. Here are some example screenshots:
+
+## License
+
+This project is licensed under the MIT License. For detailed information, please refer to the [LICENSE](LICENSE) file.
+
+## Contributions
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to raise them. Thank you for your participation!
+
+## Author
+
+- Author: [Joker Wang]
+
+
 # DWM Hooking Project Chinese
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -42,50 +86,4 @@
 
 - 作者：[Joker Wang]
 
-
-
-# DWM Hooking Project English
-
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
-
-## Project Overview
-
-This project is a customization of DWM (Desktop Window Manager) to implement various deception and extension features. Specifically, the project includes:
-
-- Utilization of **VEH (Vectored Exception Handling) image** to create a virtual table for deceiving regular scans.
-- Implementation of **virtual table hook** to extend DWM functionality.
-- Creation of **screenshot textures** to deceive the way shellcode is run within DWM.
-
-Additionally, the project encompasses the following features:
-
-- Utilization of **ImGui** with both **DX10** and **DX11** for graphical interface operations.
-- Support for **x64** and **x86** communication methods, with encapsulated DLL invocation.
-
-## Usage
-
-Below are the basic steps to get started with this project:
-
-1. Clone or download the project to your local environment.
-2. Compile and build the project, ensuring that the required dependencies are correctly installed.
-3. Run the project and follow the UI prompts for operations.
-
-Make sure you have properly configured the necessary environment and dependencies for the project.
-
-## Example Screenshots
-
-In this project, to deceive the injection of shellcode running within DWM, we use screenshot textures. Here are some example screenshots:
-
-![Example Screenshot](screenshot.png)
-
-## License
-
-This project is licensed under the MIT License. For detailed information, please refer to the [LICENSE](LICENSE) file.
-
-## Contributions
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to raise them. Thank you for your participation!
-
-## Author
-
-- Author: [Joker Wang]
 

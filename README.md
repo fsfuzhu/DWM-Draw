@@ -27,7 +27,7 @@ Make sure you have properly configured the necessary environment and dependencie
 
 ## Anti Screenshots
 
-In this project, to deceive the injection of shellcode running within DWM, we use screenshot textures. Here are some example screenshots:
+In this project, to deceive the injection of shellcode running within DWM, I use screenshot textures.
 
 ## License
 

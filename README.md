@@ -71,7 +71,7 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## 反截图
 
-在本项目中，为了欺骗注入到 DWM 中运行 shellcode，我使用了截图纹理的方式。以下是示例截图：
+在本项目中，为了欺骗注入到 DWM 中运行 shellcode，我使用了截图纹理的方式。
 
 
 ## 许可证

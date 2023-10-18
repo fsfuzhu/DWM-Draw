@@ -1,0 +1,14 @@
+LIBRARY
+EXPORTS 
+        dwm_init @1
+        dwm_width @2
+        dwm_height @3
+        dwm_new_frame @4
+        dwm_add_text_unicode @5
+        dwm_add_text_ansi @6
+        dwm_add_line @7
+        dwm_add_rect @8
+        dwm_add_rect_filled @9
+        dwm_add_circle @10
+        dwm_add_circle_filled @11
+        dwm_present @12
